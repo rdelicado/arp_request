@@ -1,0 +1,10 @@
+{
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"files.trimTrailingWhitespace": true,
+	"files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true,
+	"editor.rulers": [80],
+	"C_Cpp.default.cStandard": "c99",
+	"C_Cpp.default.compilerPath": "/usr/bin/gcc"
+}
