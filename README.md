@@ -7,7 +7,6 @@ A C networking utility that sends ARP (Address Resolution Protocol) requests to 
 - **Automatic interface detection**: Tries common interface names (eth0, enp0s3, wlan0)
 - **Source IP/MAC auto-discovery**: No need to specify source parameters
 - **Raw socket implementation**: Direct packet construction and transmission
-- **Norma v4 compliant**: Follows 42 School coding standards
 - **Professional structure**: Modular design with proper separation of concerns
 
 ## Installation
@@ -71,7 +70,6 @@ sudo ./arp_request 192.168.1.1
 - **Protocol**: ARP (Address Resolution Protocol)
 - **Packet size**: 42 bytes (14-byte Ethernet header + 28-byte ARP payload)
 - **Socket type**: Raw packet socket (AF_PACKET)
-- **Standards compliance**: Norma v4 (42 School coding standards)
 
 ## License
 

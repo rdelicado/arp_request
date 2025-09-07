@@ -1,0 +1,94 @@
+# Compiled binaries
+arp_request
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+obj/
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+core
+vgcore.*
+
+# Temporary files
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.vs/
+*.code-workspace
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.user
+*.userosscache
+*.sln.docstates
+
+# GitHub specific (if you don't want to track CI/workflows)
+.github/
+
+# Build artifacts
+*.a
+*.la
+*.lo
+*.dep
+*.d
+
+# Archive files
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Coverage reports
+*.gcov
+*.gcno
+*.gcda
+
+# Valgrind files
+*.valgrind
+*.memcheck
+
+# Tags files
+tags
+.tags
+TAGS
+.TAGS
+
+# Backup files created by editors
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ctags
+.tags*
